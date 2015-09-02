@@ -30,6 +30,10 @@
 	clear: both;
 }
 
+.stack :last-child {
+	margin-bottom: 1em; 
+}
+
 .inspiration { 
 	margin-left: 3em;
 }
